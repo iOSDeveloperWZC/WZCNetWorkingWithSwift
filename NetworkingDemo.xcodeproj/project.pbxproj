@@ -12,6 +12,7 @@
 		69FD12311D82633D0000F894 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 69FD122F1D82633D0000F894 /* Main.storyboard */; };
 		69FD12331D82633D0000F894 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 69FD12321D82633D0000F894 /* Assets.xcassets */; };
 		69FD12361D82633D0000F894 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 69FD12341D82633D0000F894 /* LaunchScreen.storyboard */; };
+		69FD123E1D8263500000F894 /* NetWorkingWrapManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69FD123D1D8263500000F894 /* NetWorkingWrapManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		69FD12321D82633D0000F894 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		69FD12351D82633D0000F894 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		69FD12371D82633D0000F894 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		69FD123D1D8263500000F894 /* NetWorkingWrapManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetWorkingWrapManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				69FD122B1D82633D0000F894 /* AppDelegate.swift */,
 				69FD122D1D82633D0000F894 /* ViewController.swift */,
+				69FD123D1D8263500000F894 /* NetWorkingWrapManager.swift */,
 				69FD122F1D82633D0000F894 /* Main.storyboard */,
 				69FD12321D82633D0000F894 /* Assets.xcassets */,
 				69FD12341D82633D0000F894 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				69FD122E1D82633D0000F894 /* ViewController.swift in Sources */,
+				69FD123E1D8263500000F894 /* NetWorkingWrapManager.swift in Sources */,
 				69FD122C1D82633D0000F894 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
